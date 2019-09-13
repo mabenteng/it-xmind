@@ -21,6 +21,8 @@
 
 ![缩略图](./images/xmind.png "一部分缩略图")
 
-点击这里可查看详细缩略图:<https://www.xmind.net/share/benteng/>
+![缩略图](./images/xmind2.png "一部分缩略图")
 
-欢迎收藏fork,也会一直持续更新新内容
+> 点击这里可查看详细缩略图:<https://www.xmind.net/share/benteng/>
+
+## 欢迎收藏fork,也会一直持续更新新内容
