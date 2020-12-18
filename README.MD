@@ -18,6 +18,9 @@
 - ThinkPhp 5.0系列快速入门.xmind
 - ThinkPHP3.2.3快速入门.xmind
 - Vue教程.js.xmind
+- Airtest 自动化测试.xmind
+- Python scrapy框架.xmind
+
 
 ![缩略图](./images/xmind.png "一部分缩略图")
 
